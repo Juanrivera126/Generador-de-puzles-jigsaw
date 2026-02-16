@@ -1,0 +1,1 @@
+Esta herramienta permite crear rompecabezas tipo “jigsaw” de forma sencilla. Puedes subir tu propia imagen o la dirección de la imagen o pedirle a la inteligencia artificial que genere una imagen. Luego eliges cuántas piezas tendrá el puzle (16, 25, 36, 49 o 64). Finalmente puedes verlo y descargarlo para imprimir o usar digitalmente.
